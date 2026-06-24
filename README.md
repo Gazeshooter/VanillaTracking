@@ -1,6 +1,5 @@
 # VanillaTracking
-expands vanilla wow's minimap tracking by allowing any class to track all unit types without requiring spell learning
-
+expands vanilla wow's minimap tracking by allowing any class to track all unit types without requiring the learning of any default or custom spells
 
 <img width="1099" height="773" alt="image" src="https://github.com/user-attachments/assets/db7b4ee3-0826-4d73-96c3-e28df9547494" />
 <img width="1490" height="600" alt="image" src="https://github.com/user-attachments/assets/634d47e8-2222-4656-ae8c-65c4c4d8939f" />
